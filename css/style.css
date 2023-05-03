@@ -893,7 +893,7 @@ body {
         transform: translate(0);
     }
 
-    .icon__hamburger {
+    #hamburger {
         display: block;
         cursor: pointer;
         padding: .6em;
@@ -905,7 +905,7 @@ body {
 
     }
 
-    .icon__hamburger:hover {
+    #hamburger:hover {
         display: block;
         padding: .6em;
         font-size: 1.5em;
